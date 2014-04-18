@@ -2,7 +2,7 @@
 
 Inspired by Lodash. Get the first item or first `n` items of an array. 
 
-![Travis-CI](https://api.travis-ci.org/rthor/first.png)
+![Travis-CI](https://api.travis-ci.org/rthor/first-n.png)
 
 ## Usage
 
