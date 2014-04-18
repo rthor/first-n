@@ -1,0 +1,38 @@
+{
+  "name": "first-n",
+  "version": "0.0.0",
+  "description": "Gets the first `n` items of an array.",
+  "main": "index.js",
+  "scripts": {
+    "test": "node tests/first-n.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "http://github.com/rthor/first-n.git"
+  },
+  "author": {
+    "name": "Ragnar Þór Valgeirsson (rthor)",
+    "email": "ragnar.valgeirsson@gmail.com",
+    "url": "http://rthor.is"
+  },
+  "bugs": {
+    "url": "https://github.com/rthor/first-n/issues"
+  },
+  "homepage": "https://github.com/rthor/first-n",
+  "keywords": [
+    "first",
+    "head",
+    "take",
+    "array",
+    "util",
+    "utility"
+  ],
+  "license": "MIT",
+  "devDependencies": {
+    "tape": "~2.12.3"
+  },
+  "dependencies": {
+    "isarray": "0.0.1",
+    "isfunction": "0.0.6"
+  }
+}
