@@ -22,9 +22,5 @@
     "node_modules",
     "bower_components",
     "tests"
-  ],
-  "dependencies": {
-    "isarray": "0.0.1",
-    "isfunction": "0.0.6"
-  }
+  ]
 }
