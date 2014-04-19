@@ -1,12 +1,8 @@
 {
   "name": "first-n",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Gets the first `n` items of an array.",
-  "main": "index.js",
-  "repository": {
-    "type": "git",
-    "url": "http://github.com/rthor/first-n.git"
-  },
+  "main": "browser.js",
   "author": {
     "name": "Ragnar Þór Valgeirsson (rthor)",
     "email": "ragnar.valgeirsson@gmail.com",
