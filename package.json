@@ -4,7 +4,8 @@
   "description": "Gets the first `n` items of an array.",
   "main": "index.js",
   "scripts": {
-    "test": "node tests/first-n.js",
+    "test":  "mocha -R spec tests/",
+    "dev-test":  "mocha -wR spec tests/",
     "browser": "browserify -s $npm_package_name -o browser.js ."
   },
   "repository": {
@@ -30,8 +31,9 @@
   ],
   "license": "MIT",
   "devDependencies": {
-    "tape": "~2.12.3",
-    "browserify": "^3.0.0"
+    "browserify": "^3.0.0",
+    "chai": "~1.9.1",
+    "mocha": "~1.18.2"
   },
   "dependencies": {
     "isarray": "0.0.1",
