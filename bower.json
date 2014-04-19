@@ -1,6 +1,6 @@
 {
   "name": "first-n",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "Gets the first `n` items of an array.",
   "main": "browser.js",
   "author": {
