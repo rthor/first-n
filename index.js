@@ -1,7 +1,7 @@
 var isArray = require('isarray');
 var isFunction = require('isfunction');
 
-module.exports = function firstN (array, callback) {
+module.exports = function first (array, callback) {
   var n = 0,
       item;
 
